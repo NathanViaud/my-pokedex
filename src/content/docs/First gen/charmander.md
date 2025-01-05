@@ -9,4 +9,4 @@ Charmander's design is based on a lizard, however as its name suggests it may al
 
 Charmander is notable for being one of the three choices for a starter Pokémon in the original Game Boy games, Pokémon Red & Blue (Red & Green in Japan), along with Bulbasaur and Squirtle.
 
-![charmander](https://img.pokemondb.net/artwork/large/charmander.jpg)
+![charmander](https://img.pokemondb.net/artwork/avif/charmander.avif)
