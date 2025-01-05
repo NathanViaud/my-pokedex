@@ -7,4 +7,6 @@ Bulbasaur is a small, mainly turquoise amphibian Pokémon with red eyes and a gr
 
 Bulbasaur is notable for being the very first Pokémon in the National Pokédex. It is one of the three choices for a starter Pokémon in the original Game Boy games, Pokémon Red & Blue (Red & Green in Japan), along with Charmander and Squirtle.
 
+It's evolution is [Ivysaur](/first-gen/Ivysaur) ! 
+
 ![bulbasaur](https://img.pokemondb.net/artwork/avif/bulbasaur.avif)
