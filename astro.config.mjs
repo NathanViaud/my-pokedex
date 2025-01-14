@@ -5,7 +5,7 @@ import starlight from "@astrojs/starlight";
 // https://astro.build/config
 export default defineConfig({
     site: "https://NathanViaud.github.io",
-    base: "pokedex",
+    base: "my-pokedex",
     integrations: [
         starlight({
             title: "My Pokedex",
